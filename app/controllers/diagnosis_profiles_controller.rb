@@ -1,0 +1,2 @@
+class DiagnosisProfilesController < ApplicationController
+end

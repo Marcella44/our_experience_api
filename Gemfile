@@ -40,7 +40,7 @@ gem 'blueprinter', '~> 1.0', '>= 1.0.2'
 
 
 group :production do
-  gem 'pg'
+  gem 'pg', '~> 1.5', '>= 1.5.6'
 end
 
 group :development, :test do
